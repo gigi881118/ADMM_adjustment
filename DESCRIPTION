@@ -2,7 +2,7 @@ Package: ADMMadj5
 Type: Package
 Title: Adjustment of Algorithms using Alternating Direction Method of Multipliers
 Version: 0.3.3
-Authors@R: c(person("Gigi", "Wu", role = c("aut", "cre"), email = "gigi881118@gmail.com")
+Authors@R: c(person("Gigi", "Wu", role = c("aut", "cre"), email = "gigi881118@gmail.com"))
 Description: Provides algorithms to solve generalized LASSO problems for binary response in statistics based on 
 Alternating Direction Method of Multipliers (ADMM) and Iteratively Reweighted Least Squares (IRLS).
 
