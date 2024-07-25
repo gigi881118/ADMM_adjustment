@@ -93,9 +93,9 @@ par(opar)
 
 }
 \references{
-\insertRef{tibshirani_solution_2011}{ADMM}
+\insertRef{tibshirani_solution_2011}{ADMMadj5}
 
-\insertRef{zhu_augmented_2017}{ADMM}
+\insertRef{zhu_augmented_2017}{ADMMadj5}
 }
 \author{
 Xiaozhi Zhu
