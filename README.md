@@ -27,7 +27,7 @@ And you can install the adjustment version of ADMM from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("gigi881118/ADMM_adjustment")
+devtools::install_github("gigi881118/ADMMadj5")
 ```
 
 ## Available Functions
