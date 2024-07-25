@@ -93,5 +93,5 @@ par(opar)
 
 }
 \references{
-\insertRef{tibshirani_regression_1996a}{ADMM}
+\insertRef{tibshirani_regression_1996a}{ADMMadj5}
 }
