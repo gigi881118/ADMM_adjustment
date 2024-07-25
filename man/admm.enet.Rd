@@ -88,7 +88,7 @@ par(opar)
 
 }
 \references{
-\insertRef{zou_regularization_2005a}{ADMM}
+\insertRef{zou_regularization_2005a}{ADMMadj5}
 }
 \seealso{
 \code{\link{admm.lasso}}
