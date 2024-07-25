@@ -108,7 +108,7 @@ par(opar)
 
 }
 \references{
-\insertRef{wen_alternating_2010a}{ADMM}
+\insertRef{wen_alternating_2010a}{ADMMadj5}
 }
 \author{
 Kisung You
